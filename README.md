@@ -1,2 +1,2 @@
 # Nexa
-Audio Video Server API's
+A RESTful API to EVS Audio Video Servers.
