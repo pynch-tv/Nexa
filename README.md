@@ -4,7 +4,7 @@ A RESTful API to EVS Audio Video Servers.
 
 HTTP and the web have become the lingua-franca in the ICT world and have found their entry in the broadcast world as well. But not all machines in the broadcast world (old and new) want to expose such an HTTP interface to the outside world: not part of the offering, not to make it easy to interface with and stay within the product family (vendor lock-in).
 
-With Nexa we want to provide an HTTP RESTful API on top of existing audio video production servers - made for the broadcast integrators and programmers.
+With Nexa we want to provide an HTTP RESTful OpenAPI on top of existing audio video production servers - made for the broadcast integrators and programmers.
 
 ## Design Philosophy
 
@@ -12,6 +12,7 @@ We want the API to be instantly recognizable by programmers and broadcast engine
 
 By following the well-known API patterns, developers can get their first successful call within minutes [TTFC](https://nordicapis.com/why-time-to-first-call-is-a-vital-api-metric) (The time taken between a developer accessing documentation, and/or signing up for an API key and making their first successful API call (of any complexity)). Additionally, by following the best practices, AI coding assistants (eg [GitHub's Co-Pilot](https://github.com/features/copilot)) can predict code more easely and accuratly.
 
+![Untitled2](https://github.com/pynch-tv/Nexa/assets/4082369/c80ee808-e3af-40ed-adbe-a4de25392524)
 ## API for machines and humans
 
 Nexa can render the same information in 2 ways: as [JSON](https://www.w3schools.com/whatis/whatis_json.asp) (for machine consumption) and in [HTML](https://www.w3schools.com/html/html_intro.asp) (for human consumption).
