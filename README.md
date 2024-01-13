@@ -1,5 +1,6 @@
 # Nexa OpenAPI
 A RESTful API to EVS Audio Video Servers.
+![Untitled](https://github.com/pynch-tv/Nexa/assets/4082369/706e5937-f695-43aa-a806-421ad1c345d0)
 
 HTTP and the web have become the lingua-franca in the ICT world and have found their entry in the broadcast world as well. But not all machines in the broadcast world (old and new) want to expose such an HTTP interface to the outside world: not part of the offering, not to make it easy to interface with and stay within the product family (vendor lock-in).
 
