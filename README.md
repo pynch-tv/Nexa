@@ -6,7 +6,11 @@ HTTP and the web have become the lingua-franca in the ICT world and have found t
 
 With Nexa we want to provide an HTTP RESTful OpenAPI on top of existing audio video production servers - made for the broadcast integrators and programmers.
 
-## Design Philosophy
+## Report Issues
+
+The main raison to have this GitHub repo is the ability for you to report issues (and for others to see/learn from the issues). Before you raise an issue, make sure you look at the [common issues wiki](https://github.com/pynch-tv/Nexa/wiki/Common-Issues)!
+
+## OpenAPI
 
 We want the API to be instantly recognizable by programmers and broadcast engineers! How? By applying all the industry best-practices and API guidelines put forward by industry: [W3C](https://www.w3.org/TR/dwbp/), [IETF](https://ietf.org), [OGC](https://ogcapi.ogc.org/), [industry best practices](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/) and [government API Design Rules](https://gitdocumentatie.logius.nl/publicatie/api/adr/).
 
