@@ -22,7 +22,8 @@ We want the API to be instantly recognizable by programmers and broadcast engine
 
 By following the well-known API patterns, developers can get their first successful call within minutes [TTFC](https://nordicapis.com/why-time-to-first-call-is-a-vital-api-metric) (The time taken between a developer accessing documentation, and/or signing up for an API key and making their first successful API call (of any complexity)). Additionally, by following the best practices, AI coding assistants (eg [GitHub's Co-Pilot](https://github.com/features/copilot)) can predict code more easely and accuratly.
 
-![Untitled(1)](https://github.com/pynch-tv/Nexa/assets/4082369/a89474dd-218b-422a-8420-c9aebb21358a)
+<img width="1430" alt="Screenshot 2024-06-05 at 11 46 12" src="https://github.com/pynch-tv/Nexa/assets/4082369/8cb0cf8d-43e7-45a6-8f8c-143bec11d084">
+
 ## API for machines and humans
 
 Nexa can render the same information in 2 ways: as [JSON](https://www.w3schools.com/whatis/whatis_json.asp) (for machine consumption) and in [HTML](https://www.w3schools.com/html/html_intro.asp) (for human consumption).
