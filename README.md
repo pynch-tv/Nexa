@@ -30,7 +30,7 @@ Nexa can render the same information in 2 ways: as [JSON](https://www.w3schools.
 
 A side-by-side comparison between HTML and JSON respectively:
 
-![Screenshot 2024-01-13 110321](https://github.com/pynch-tv/Nexa/assets/4082369/9881eea4-7527-44ab-838c-526b91a8b9f2)
+![296444185-9881eea4-7527-44ab-838c-526b91a8b9f2](https://github.com/pynch-tv/Nexa/assets/4082369/5881eb47-6dcc-4ab0-9f52-0173636c300a)
 
 The one on the left (HTML) is called with http://localhost:8080/acme/unit11/v1/ and the one on the right (JSON) with http://localhost:8080/acme/unit11/v1/?f=json (see the difference?).
 
