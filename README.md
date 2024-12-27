@@ -1,4 +1,7 @@
 # Nexa OpenAPI
+
+Automate your AudioVideo servers through a unified API
+
 A RESTful API to EVS Audio Video Servers.
 ![Untitled](https://github.com/pynch-tv/Nexa/assets/4082369/706e5937-f695-43aa-a806-421ad1c345d0)
 
