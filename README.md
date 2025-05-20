@@ -6,15 +6,6 @@ Automate your AudioVideo servers through a unified API
 
 Nexa provides an HTTP RESTful OpenAPI on top of existing audio video production servers - made for the broadcast integrators and programmers.
 
-<br/>
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Running into issues? Check out the wiki first!</h3>
-The main raison to have this GitHub repo is the ability for you to report issues (and for others to see/learn from the issues). Before you raise an issue, make sure you look at the <a href="https://github.com/pynch-tv/Nexa/wiki/Common-Issues">common issues wiki</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
 ## OpenAPI
 
 We want the API to be instantly recognizable by programmers and broadcast engineers! How? By applying all the industry best-practices and API guidelines put forward by industry: [W3C](https://www.w3.org/TR/dwbp/), [IETF](https://ietf.org), [OGC](https://ogcapi.ogc.org/), [industry best practices](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/) and [government API Design Rules](https://gitdocumentatie.logius.nl/publicatie/api/adr/).
