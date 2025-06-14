@@ -1,3 +1,9 @@
+![My Custom Badge](https://img.shields.io/badge/OpenAPI-v3-green)
+![My Custom Badge](https://img.shields.io/badge/EVS-XT-red)
+![My Custom Badge](https://img.shields.io/badge/BMD-HyperDeck-red)
+![My Custom Badge](https://img.shields.io/badge/ControlledBy-Companion-blue)
+![My Custom Badge](https://img.shields.io/badge/ControlledBy-html-blue)
+
 # Nexa OpenAPI
 
 Automate your AudioVideo servers through a unified API
